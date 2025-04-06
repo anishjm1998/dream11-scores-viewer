@@ -9,7 +9,7 @@ import preloadedData from './data/preloadedResults.json';
 
 function App() {
   return (
-    <Router basename="/Dream11-Tracker-Viewer">
+    <Router basename="/dream11-scores-viewer">
       <Routes>
         <Route path="/" element={<HomeScreen />} />
         <Route 
