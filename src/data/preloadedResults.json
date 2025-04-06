@@ -1,0 +1,671 @@
+{
+  "fixtureResults": {
+    "1": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Aron",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Indrajit",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "2": [
+      {
+        "name": "Supriyam",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Anish",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Aron",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Indrajit",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Akash",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "3": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Ashwin",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Akash",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Aron",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "4": [
+      {
+        "name": "Akash",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Indrajit",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Supriyam",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Anish",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Aron",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "5": [
+      {
+        "name": "Supriyam",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Indrajit",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Shashwata",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Ashwin",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Akash",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "6": [
+      {
+        "name": "Supriyam",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Ashwin",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Indrajit",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Aron",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Shashwata",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "7": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Indrajit",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Ashwin",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Supriyam",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Akash",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "8": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Supriyam",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Aron",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Akash",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Ashwin",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Indrajit",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "9": [
+      {
+        "name": "Shashwata",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Anish",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Aron",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Indrajit",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Ashwin",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Akash",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "10": [
+      {
+        "name": "Akash",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Shashwata",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Supriyam",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Anish",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Indrajit",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Ashwin",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Aron",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "11": [
+      {
+        "name": "Indrajit",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Anish",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Aron",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "12": [
+      {
+        "name": "Indrajit",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Aron",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Shashwata",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Supriyam",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "13": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Supriyam",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Indrajit",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Ashwin",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Aron",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Akash",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "14": [
+      {
+        "name": "Indrajit",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Aron",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Shashwata",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Supriyam",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Ashwin",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Akash",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "15": [
+      {
+        "name": "Akash",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Shashwata",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Indrajit",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Aron",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Ashwin",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Anish",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Supriyam",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "16": [
+      {
+        "name": "Supriyam",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Ashwin",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Akash",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Aron",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Indrajit",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Shashwata",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "17": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Akash",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Indrajit",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Shashwata",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Ashwin",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Aron",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "18": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Aron",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Supriyam",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Ashwin",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Indrajit",
+        "position": 7,
+        "points": 3
+      }
+    ]
+  },
+  "exportedAt": "2025-04-06T02:34:45.337Z"
+}
