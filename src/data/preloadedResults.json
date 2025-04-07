@@ -665,7 +665,44 @@
         "position": 7,
         "points": 3
       }
+    ],
+    "19": [
+      {
+        "name": "Aron",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Shashwata",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Ashwin",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Supriyam",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Indrajit",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Akash",
+        "position": 7,
+        "points": 3
+      }
     ]
   },
-  "exportedAt": "2025-04-06T02:54:21.699Z"
+  "exportedAt": "2025-04-07T14:44:46.590Z"
 }
