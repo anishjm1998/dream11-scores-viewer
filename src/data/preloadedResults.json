@@ -702,7 +702,118 @@
         "position": 7,
         "points": 3
       }
+    ],
+    "20": [
+      {
+        "name": "Supriyam",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Anish",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Shashwata",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Akash",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Aron",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Indrajit",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "21": [
+      {
+        "name": "Indrajit",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Supriyam",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Anish",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Aron",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Akash",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Ashwin",
+        "position": 7,
+        "points": 3
+      }
+    ],
+    "22": [
+      {
+        "name": "Anish",
+        "position": 1,
+        "points": 12
+      },
+      {
+        "name": "Akash",
+        "position": 2,
+        "points": 10
+      },
+      {
+        "name": "Ashwin",
+        "position": 3,
+        "points": 8
+      },
+      {
+        "name": "Indrajit",
+        "position": 4,
+        "points": 6
+      },
+      {
+        "name": "Supriyam",
+        "position": 5,
+        "points": 5
+      },
+      {
+        "name": "Shashwata",
+        "position": 6,
+        "points": 4
+      },
+      {
+        "name": "Aron",
+        "position": 7,
+        "points": 3
+      }
     ]
   },
-  "exportedAt": "2025-04-07T14:44:46.590Z"
+  "exportedAt": "2025-04-09T01:08:04.141Z"
 }
